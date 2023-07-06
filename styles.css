@@ -38,6 +38,7 @@ header {
 }
 .logo {
   scale: 1.2;
+  cursor: pointer;
 }
 .nav-list {
   display: flex;
@@ -158,6 +159,7 @@ footer {
 }
 section span:hover {
   color: var(--Soft-orange);
+  cursor: pointer;
 }
 .text a:hover {
   background-color: var(--Very-dark);
